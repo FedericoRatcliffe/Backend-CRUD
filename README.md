@@ -1,3 +1,2 @@
-# Backend-CRUD
-Backend pacientes
+# SpringBoot Backend CRUD
 Proyecto universitario UTNFRVT 2022 
